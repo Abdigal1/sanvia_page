@@ -19,8 +19,8 @@ function Our_work_process() {
             Our Work Process
           </h2>
           <p className={s.our__work__process__section__header__description}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Efficient six-step process: Identify needs, plan strategically, design creatively, 
+            develop technically, test rigorously, and launch effectively for impactful results.
           </p>
         </div>
         <div className={s.our__work__process__section__content}>
@@ -47,14 +47,14 @@ function Our_work_process() {
                   s.our__work__process__section__content__process__list__single__title
                 }
               >
-                Surface
+                Identification
               </h3>
               <span
                 className={
                   s.our__work__process__section__content__process__list__single__meta
                 }
               >
-                Visual Design
+                Preliminary Analysis
               </span>
             </div>
 
@@ -73,14 +73,14 @@ function Our_work_process() {
                   s.our__work__process__section__content__process__list__single__title
                 }
               >
-                Skeleton
+                Planning
               </h3>
               <span
                 className={
                   s.our__work__process__section__content__process__list__single__meta
                 }
               >
-                Wireframes
+                Defined Strategy
               </span>
             </div>
 
@@ -99,14 +99,14 @@ function Our_work_process() {
                   s.our__work__process__section__content__process__list__single__title
                 }
               >
-                Structure
+                Design
               </h3>
               <span
                 className={
                   s.our__work__process__section__content__process__list__single__meta
                 }
               >
-                Screen Flow
+                Conceptual Creation
               </span>
             </div>
 
@@ -125,14 +125,14 @@ function Our_work_process() {
                   s.our__work__process__section__content__process__list__single__title
                 }
               >
-                Scope
+                Development
               </h3>
               <span
                 className={
                   s.our__work__process__section__content__process__list__single__meta
                 }
               >
-                Requirements
+                Technical Implementation
               </span>
             </div>
 
@@ -151,14 +151,14 @@ function Our_work_process() {
                   s.our__work__process__section__content__process__list__single__title
                 }
               >
-                User Research
+                Launch
               </h3>
               <span
                 className={
                   s.our__work__process__section__content__process__list__single__meta
                 }
               >
-                User Research
+                Final Deployment
               </span>
             </div>
 

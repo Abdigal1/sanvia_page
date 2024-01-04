@@ -232,6 +232,55 @@ function Footer() {
               <h3 className={s.footer__section__row__col__content__title}>
                 Get in Touch
               </h3>
+              <ul
+                className={s.footer__section__row__col__content__footer__links}
+              >
+                <li
+                  className={
+                    s.footer__section__row__col__content__footer__links__item
+                  }
+                >
+                  <Link
+                  className={
+                    s.footer__section__row__col__content__footer__links__item__link
+                  }
+                  href="https://maps.google.com/maps"
+                >
+                  123 Street, City, State 12345
+                </Link>
+                </li>
+                
+
+                <li
+                  className={
+                    s.footer__section__row__col__content__footer__links__item
+                  }
+                >
+                  <Link
+                  className={
+                    s.footer__section__row__col__content__footer__links__item__link
+                  }
+                  href="tel:+324-9442-515"
+                >
+                  +324-9442-515
+                </Link>
+                </li>
+
+                <li
+                  className={
+                    s.footer__section__row__col__content__footer__links__item
+                  }
+                >
+                  <Link
+                  className={
+                    s.footer__section__row__col__content__footer__links__item__link
+                  }
+                  href="mailto:hello@pungent.com"
+                >
+                  hello@pungent.com
+                </Link>
+                </li> 
+              </ul>
               <div
                 className={s.footer__section__row__col__content__address}
               ></div>

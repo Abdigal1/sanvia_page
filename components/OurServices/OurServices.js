@@ -8,8 +8,9 @@ function OurServices() {
       <div className="container">
         <h2 className={s.our__services__section__title}>Our Services</h2>
         <p className={s.our__services__section__description}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna.
+        Offering AI-driven solutions in application development, data analytics, 
+        automation, security, virtual assistance, and cloud optimization for diverse 
+        client needs.
         </p>
         <div className={s.our__services__section__cards}>
           <div className={s.our__services__section__cards__card}>
@@ -17,12 +18,12 @@ function OurServices() {
               <RiMessage2Line />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
-              Business Consultancy
+              Custom Application Development
             </h3>
             <p className={s.our__services__section__cards__card__description}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Creating tailor-made applications that utilize AI to provide 
+              specific customer solutions, seamlessly integrating with 
+              cloud infrastructure.
             </p>
           </div>
           <div className={s.our__services__section__cards__card}>
@@ -30,12 +31,12 @@ function OurServices() {
               <RiMessage2Line />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
-              Web Development
+              Advanced Data Analytics
             </h3>
             <p className={s.our__services__section__cards__card__description}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Using AI algorithms to analyze large data sets in the cloud, 
+              providing valuable insights and patterns for business 
+              decision-making.
             </p>
           </div>
           <div className={s.our__services__section__cards__card}>
@@ -43,12 +44,11 @@ function OurServices() {
               <RiMessage2Line />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
-              Digital Marketing
+              Business Process Automation
             </h3>
             <p className={s.our__services__section__cards__card__description}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Implementing AI systems in the cloud to automate repetitive tasks, 
+              improving efficiency and reducing human errors.
             </p>
           </div>
           <div className={s.our__services__section__cards__card}>
@@ -56,12 +56,11 @@ function OurServices() {
               <RiMessage2Line />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
-              Mobile App Development
+              AI-Enhanced Security Services
             </h3>
             <p className={s.our__services__section__cards__card__description}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Using AI to enhance cloud security, including real-time threat 
+              detection and automated incident response.
             </p>
           </div>
           <div className={s.our__services__section__cards__card}>
@@ -69,12 +68,11 @@ function OurServices() {
               <RiMessage2Line />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
-              eCommerce Development
+              Virtual Assistants and Chatbots
             </h3>
             <p className={s.our__services__section__cards__card__description}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Developing AI-powered virtual assistants and chatbots capable 
+              of performing complex tasks and providing customer support in the cloud.
             </p>
           </div>
           <div className={s.our__services__section__cards__card}>
@@ -82,12 +80,11 @@ function OurServices() {
               <RiMessage2Line />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
-              Marketing & Reporting
+              Cloud Infrastructure Optimization
             </h3>
             <p className={s.our__services__section__cards__card__description}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Applying AI to optimize the usage and performance of cloud infrastructure, 
+              helping to reduce costs and improve operational efficiency.
             </p>
           </div>
         </div>

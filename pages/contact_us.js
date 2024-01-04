@@ -7,7 +7,7 @@ function Contact_us() {
   return (
     <div>
       <Header />
-      <HeroSection2 />
+      <HeroSection2 title="Contact Us"/>
       <Footer />
     </div>
   )

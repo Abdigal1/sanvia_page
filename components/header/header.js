@@ -90,7 +90,7 @@ function Header() {
                     About Us
                   </Link>
                 </li>
-                <li className={s.nav_item}>
+                {/* <li className={s.nav_item}>
                   <Link
                     className={
                       pathname === "/portfolio"
@@ -125,7 +125,7 @@ function Header() {
                   >
                     Blog
                   </Link>
-                </li>
+                </li> */}
                 <li className={s.nav_item}>
                   <Link
                     className={

@@ -24,13 +24,13 @@ function Hero_section() {
       <div className="container">
         <div className={s.row}>
           <div className={s.hero__section__left}>
-            <h5 className={s.hero__section__sm__title}>A Digital Agency</h5>
+            <h5 className={s.hero__section__sm__title}>AI Consultant</h5>
             <h1 className={s.hero__section__left__title}>
-              We're a full-range digital agency.
+              Innovating, Learning and  Transforming with AI
             </h1>
             <p className={s.hero__section__left__description}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            We specialize in harnessing the power of Machine Learning (ML) and Deep Learning 
+            (DL) to drive innovation and transform businesses
             </p>
             <div className={s.hero__section__left__btn}>
               <Button variant="primary" url="/" text="Get Started" />
