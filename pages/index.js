@@ -13,6 +13,7 @@ import Rating_section from "../components/Rating/Rating_section";
 import Team from "../components/Team/Team";
 
 
+
 export default function Home() {
   return (
     <div>
@@ -24,11 +25,11 @@ export default function Home() {
       <Our_work_process />
       {/* <Feedback_section />
       <Team /> */}
-      <Rating_section />
+      {/* <Rating_section /> */}
       {/* <Blog_section /> */}
       <CTA__SECTION />
       {/* <Partner__section /> */}
       <Footer />
     </div>
-  )
+);
 }
