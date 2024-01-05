@@ -1,6 +1,7 @@
 import React from "react";
 import * as s from "./our_services.module.scss"
-import {RiMessage2Line} from "react-icons/ri";
+import {RiMessage2Line, RiUserStarLine, RiCloudLine, RiLineChartLine, RiSecurePaymentLine, RiSlideshowLine, RiBarChartBoxLine } from "react-icons/ri";
+
 
 function OurServices() {
   return (
@@ -15,7 +16,7 @@ function OurServices() {
         <div className={s.our__services__section__cards}>
           <div className={s.our__services__section__cards__card}>
             <span className={s.our__services__section__cards__card__icon}>
-              <RiMessage2Line />
+              <RiSlideshowLine />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
               Custom Application Development
@@ -28,7 +29,7 @@ function OurServices() {
           </div>
           <div className={s.our__services__section__cards__card}>
             <span className={s.our__services__section__cards__card__icon}>
-              <RiMessage2Line />
+              <RiLineChartLine />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
               Advanced Data Analytics
@@ -41,7 +42,7 @@ function OurServices() {
           </div>
           <div className={s.our__services__section__cards__card}>
             <span className={s.our__services__section__cards__card__icon}>
-              <RiMessage2Line />
+              <RiBarChartBoxLine />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
               Business Process Automation
@@ -53,7 +54,7 @@ function OurServices() {
           </div>
           <div className={s.our__services__section__cards__card}>
             <span className={s.our__services__section__cards__card__icon}>
-              <RiMessage2Line />
+              <RiSecurePaymentLine />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
               AI-Enhanced Security Services
@@ -65,7 +66,7 @@ function OurServices() {
           </div>
           <div className={s.our__services__section__cards__card}>
             <span className={s.our__services__section__cards__card__icon}>
-              <RiMessage2Line />
+              <RiUserStarLine />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
               Virtual Assistants and Chatbots
@@ -77,7 +78,7 @@ function OurServices() {
           </div>
           <div className={s.our__services__section__cards__card}>
             <span className={s.our__services__section__cards__card__icon}>
-              <RiMessage2Line />
+              <RiCloudLine />
             </span>
             <h3 className={s.our__services__section__cards__card__title}>
               Cloud Infrastructure Optimization
