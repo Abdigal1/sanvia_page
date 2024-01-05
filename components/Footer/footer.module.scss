@@ -56,11 +56,11 @@
             height: 3px;
             background: linear-gradient(
               to left top,
-              #ff2c9c,
-              #ff287b,
-              #ff395a,
-              #ff5137,
-              #ff6a00
+              #22c1c3,
+              #43c0ad,
+              #66bf95,
+              #90be78,
+              #fdbb2d
             );
           }
           &::after {
@@ -94,11 +94,11 @@
                 transform: translateY(-50%);
                 background: linear-gradient(
                   to left top,
-                  #ff2c9c,
-                  #ff287b,
-                  #ff395a,
-                  #ff5137,
-                  #ff6a00
+                  #22c1c3,
+                  #43c0ad,
+                  #66bf95,
+                  #90be78,
+                  #fdbb2d
                 );
                 width: 10px;
                 height: 2px;
@@ -143,13 +143,21 @@
             transform: translateY(-50%);
             right: 0;
             margin: 0 auto;
+            // background: linear-gradient(
+            //   to left top,
+            //   #ff2c9c,
+            //   #ff287b,
+            //   #ff395a,
+            //   #ff5137,
+            //   #ff6a00
+            // );
             background: linear-gradient(
               to left top,
-              #ff2c9c,
-              #ff287b,
-              #ff395a,
-              #ff5137,
-              #ff6a00
+              #22c1c3,
+              #43c0ad,
+              #66bf95,
+              #90be78,
+              #fdbb2d
             );
             width: 0;
             height: 0;

@@ -22,11 +22,11 @@
 /* primary btn style start here */
 
 .primary__btn {
-  border: 1px solid #ff2c9c;
+  border: 1px solid #2119ae;
   color: #fff;
   position: relative;
   &:hover {
-    color: #ff2c9c;
+    color: #4f08ac;
   }
   &::before {
     border-radius: 5px;
@@ -40,11 +40,11 @@
     height: 100%;
     background: linear-gradient(
       to left top,
-      #ff2c9c,
-      #ff287b,
-      #ff395a,
-      #ff5137,
-      #ff6a00
+      #22c1c3,
+      #43c0ad,
+      #66bf95,
+      #90be78,
+      #fdbb2d
     );
     z-index: -1;
     transition: all 0.5s ease;
@@ -59,8 +59,8 @@
 /* transparent btn style start here */
 
 .transparent {
-  border: 1px solid #ff2c9c;
-  color: #ff2c9c;
+  border: 1px solid #2119ae;
+  color: #4f08ac;
   position: relative;
   &:hover {
     color: #fff;
@@ -77,11 +77,11 @@
     height: 100%;
     background: linear-gradient(
       to left top,
-      #ff2c9c,
-      #ff287b,
-      #ff395a,
-      #ff5137,
-      #ff6a00
+      #22c1c3,
+      #43c0ad,
+      #66bf95,
+      #90be78,
+      #fdbb2d
     );
     z-index: -1;
     transition: all 0.5s ease;
